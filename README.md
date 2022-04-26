@@ -4,7 +4,7 @@ I'm a professional Ruby on Rails / React Developer focusing on world-class user 
 
 Specialties: Ruby, Ruby on Rails, React, React Native, JavaScript (ES6), TypeScript, Node.js, HTML5, CSS, Bootstrap, Tailwind CSS, GraphQL, PostgreSQL, MongoDB, RESTful API, Git, CI/CD, Firebase, AWS
 
-## Skills
+## ✨ Skills ✨
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -21,7 +21,7 @@ Specialties: Ruby, Ruby on Rails, React, React Native, JavaScript (ES6), TypeScr
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
-## Analytics
+## ✨ Analytics ✨
 
 <p>
 <a href="https://github.com/bobby-riley">

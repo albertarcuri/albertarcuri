@@ -24,8 +24,8 @@ Specialties: Ruby, Ruby on Rails, React, React Native, JavaScript (ES6), TypeScr
 ## ✨ Analytics ✨
 
 <p>
-<a href="https://github.com/bobby-riley">
+<a href="https://github.com/ryanparker112">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bobby-riley&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanparker112&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

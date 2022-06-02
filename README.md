@@ -1,8 +1,16 @@
 ## ✨ Ruby on Rails Developer ✨
 
-I'm a professional Ruby on Rails / React Developer focusing on world-class user experience, and web performance through scalable, modular, DRY code. I love deeply understanding the technologies I use. I'm passionate about real estate, finance, healthcare, SaaS, B2B and would love to work for a company where I can combine those passions with programming.
+I specialize in developing web applications utilizing Ruby, Elixir, and JavaScript technologies, specifically I'm strongest at Ruby on Rails and React. Below you can see my main skills in detail:
 
-Specialties: Ruby, Ruby on Rails, React, React Native, JavaScript (ES6), TypeScript, Node.js, HTML5, CSS, Bootstrap, Tailwind CSS, GraphQL, PostgreSQL, MongoDB, RESTful API, Git, CI/CD, Firebase, AWS
+- Ruby, Ruby on Rails
+- Elixir, Phoenix
+- JavaScript, React, Angular, Vue.js, Node.js
+- HTML5, CSS/Sass, Bootstrap, Tailwind CSS
+- MySQL, PostgreSQL, MongoDB, Redis
+- RESTful API, GraphQL
+- AWS, Heroku, Firebase
+
+I have 10+ years of experience building and scaling cloud-based web apps and I am well-versed in managing multi-tenant SaaS applications in the cloud. I also have a background in computer science, machine learning, and finance.
 
 ## ✨ Skills ✨
 

@@ -1,4 +1,4 @@
-## ✨ Ruby on Rails Developer ✨
+## ✨ Sr. Ruby on Rails Developer ✨
 
 I specialize in developing web applications utilizing Ruby, Elixir, and JavaScript technologies, specifically I'm strongest at Ruby on Rails and React. Below you can see my main skills in detail:
 

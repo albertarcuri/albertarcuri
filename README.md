@@ -1,16 +1,20 @@
 ## ✨ Sr. Ruby on Rails Developer ✨
 
-I specialize in developing web applications utilizing Ruby, Elixir, and JavaScript technologies, specifically I'm strongest at Ruby on Rails and React. Below you can see my main skills in detail:
+I am a full-stack developer who specializes in Ruby and JavaScript-based web development. Specifically, I have been working with Ruby on Rails for back-end development over the last 9 years. I also have extensive experience with front-end development using React, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind CSS, and more. Below you can see my skill sets in detail:
 
-- Ruby, Ruby on Rails
-- Elixir, Phoenix
-- JavaScript, React, Angular, Vue.js, Node.js
-- HTML5, CSS/Sass, Bootstrap, Tailwind CSS
-- MySQL, PostgreSQL, MongoDB, Redis
-- RESTful API, GraphQL
-- AWS, Heroku, Firebase
+• Ruby, Ruby on Rails
+• JavaScript, TypeScript, React, Angular, Node.js
+• HTML, CSS, Bootstrap, Material-UI, Tailwind CSS
+• Ajax, JSON, XML
+• MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ
+• RESTful API
+• GraphQL
+• ElasticSearch
+• AWS, Heroku, Firebase
 
-I have 10+ years of experience building and scaling cloud-based web apps and I am well-versed in managing multi-tenant SaaS applications in the cloud. I also have a background in computer science, machine learning, and finance.
+As a strong team player and problem-solver, I have a proven record of planning, coordinating, and executing elegant projects from the ground up. I have a strong focus on best practices and prefer to get things done right the first time so you don't have to keep coming back to them.
+
+You can also expect my communication to be prompt, polite, and friendly. If you have any projects where you feel I can help out, please don't hesitate to get in touch!
 
 ## ✨ Skills ✨
 
@@ -32,8 +36,8 @@ I have 10+ years of experience building and scaling cloud-based web apps and I a
 ## ✨ Analytics ✨
 
 <p>
-<a href="https://github.com/ryanparker112">
+<a href="https://github.com/justinschenk305">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ryanparker112&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justinschenk305&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

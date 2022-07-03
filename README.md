@@ -1,20 +1,21 @@
 ## ✨ Sr. Ruby on Rails Developer ✨
 
-I am a full-stack developer who specializes in Ruby and JavaScript-based web development. Specifically, I have been working with Ruby on Rails for back-end development over the last 9 years. I also have extensive experience with front-end development using React, Angular, JavaScript, TypeScript, HTML, CSS, Bootstrap, Tailwind CSS, and more. Below you can see my skill sets in detail:
+I am a full-stack Ruby developer and my specialties include Ruby, Ruby on Rails, JavaScript, React, Vue.js, PostgreSQL, GraphQL, AWS, and more. Below you can see my skill sets in detail:
 
-• Ruby, Ruby on Rails
-• JavaScript, TypeScript, React, Angular, Node.js
-• HTML, CSS, Bootstrap, Material-UI, Tailwind CSS
-• Ajax, JSON, XML
-• MySQL, PostgreSQL, MongoDB, Redis, RabbitMQ
+• Ruby, Ruby on Rails, Elixir
+• JavaScript, TypeScript, React, Vue.js, Node.js
+• HTML, CSS, Bootstrap, Tailwind CSS
+• MySQL, PostgreSQL, MongoDB
 • RESTful API
 • GraphQL
-• ElasticSearch
 • AWS, Heroku, Firebase
+• Git, Jira, Asana, Trello
 
-As a strong team player and problem-solver, I have a proven record of planning, coordinating, and executing elegant projects from the ground up. I have a strong focus on best practices and prefer to get things done right the first time so you don't have to keep coming back to them.
+While my preference leans toward backend development, I create responsive full-stack web applications that are modular, testable, and scalable. From large-scale design concepts to design details, I am committed to delivering a final product that looks and feels polished.
 
-You can also expect my communication to be prompt, polite, and friendly. If you have any projects where you feel I can help out, please don't hesitate to get in touch!
+I also have a strong entrepreneurial spirit and problem-solving mentality and I am passionate about developing products that make a positive impact on the world. The ability to type lines of text to help solve real-world problems fuels my energy.
+
+On a personal level, I am a motorcycle enthusiast and outdoor adventurer with interests that include golfing and snowboarding. The sense of exploration in these activities makes me want to learn more, and I share this same outlook when it comes to learning new technologies. Hopefully, I get to join you in work worth doing.
 
 ## ✨ Skills ✨
 

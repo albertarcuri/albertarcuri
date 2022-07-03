@@ -1,4 +1,4 @@
-## ✨ Sr. Ruby on Rails Developer ✨
+## ✨ Full Stack Ruby Developer ✨
 
 I am a full-stack Ruby developer and my specialties include Ruby, Ruby on Rails, JavaScript, React, Vue.js, PostgreSQL, GraphQL, AWS, and more. Below you can see my skill sets in detail:
 

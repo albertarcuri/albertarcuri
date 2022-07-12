@@ -1,21 +1,16 @@
 ## ✨ About Me ✨
 
-I am a full-stack Ruby developer and my specialties include Ruby, Ruby on Rails, JavaScript, React, Vue.js, PostgreSQL, GraphQL, AWS, and more. Below you can see my skill sets in detail:
-
-• Ruby, Ruby on Rails, Elixir
-• JavaScript, TypeScript, React, Vue.js, Node.js
-• HTML, CSS, Bootstrap, Tailwind CSS
-• MySQL, PostgreSQL, MongoDB
-• RESTful API
-• GraphQL
-• AWS, Heroku, Firebase
-• Git, Jira, Asana, Trello
-
-While my preference leans toward backend development, I create responsive full-stack web applications that are modular, testable, and scalable. From large-scale design concepts to design details, I am committed to delivering a final product that looks and feels polished.
-
-I also have a strong entrepreneurial spirit and problem-solving mentality and I am passionate about developing products that make a positive impact on the world. The ability to type lines of text to help solve real-world problems fuels my energy.
-
-On a personal level, I am a motorcycle enthusiast and outdoor adventurer with interests that include golfing and snowboarding. The sense of exploration in these activities makes me want to learn more, and I share this same outlook when it comes to learning new technologies. Hopefully, I get to join you in work worth doing.
+I specialize in developing web applications utilizing Ruby, Elixir, and JavaScript technologies, specifically I'm strongest at Ruby on Rails and React. Below you can see my main skills in detail:
+ 
+- Ruby, Ruby on Rails
+- Elixir, Phoenix
+- JavaScript, React, Angular, Vue.js, Node.js
+- HTML5, CSS/Sass, Bootstrap, Tailwind CSS
+- MySQL, PostgreSQL, MongoDB, Redis
+- RESTful API, GraphQL
+- AWS, Heroku, Firebase
+ 
+I have 10+ years of experience building and scaling cloud-based web apps and I am well-versed in managing multi-tenant SaaS applications in the cloud. I also have a background in computer science, machine learning, and finance.
 
 ## ✨ Skills ✨
 
@@ -37,8 +32,8 @@ On a personal level, I am a motorcycle enthusiast and outdoor adventurer with in
 ## ✨ Analytics ✨
 
 <p>
-<a href="https://github.com/justinschenk305">
+<a href="https://github.com/christiancmpbell">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=justinschenk305&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christiancmpbell&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

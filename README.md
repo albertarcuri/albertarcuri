@@ -1,16 +1,8 @@
 ## ✨ About Me ✨
 
-I specialize in developing web applications utilizing Ruby, Elixir, and JavaScript technologies, specifically I'm strongest at Ruby on Rails and React. Below you can see my main skills in detail:
- 
-- Ruby, Ruby on Rails
-- Elixir, Phoenix
-- JavaScript, React, Angular, Vue.js, Node.js
-- HTML5, CSS/Sass, Bootstrap, Tailwind CSS
-- MySQL, PostgreSQL, MongoDB, Redis
-- RESTful API, GraphQL
-- AWS, Heroku, Firebase
- 
-I have 10+ years of experience building and scaling cloud-based web apps and I am well-versed in managing multi-tenant SaaS applications in the cloud. I also have a background in computer science, machine learning, and finance.
+Senior Software Engineer with experience in Ruby on Rails, JavaScript and React and a Bachelor's Degree in Computer Science. As a strong team player and problem-solver, I have a proven record of planning, developing, and maintaining elegant projects from the ground up. Building several tech projects, I demonstrated strong skills in web development.
+
+My specialty also combines a customer service background with technical solutions to approach challenges and solve an array of programming tasks. Now I'm open to embracing new opportunities and responsibilities.
 
 ## ✨ Skills ✨
 
@@ -32,8 +24,8 @@ I have 10+ years of experience building and scaling cloud-based web apps and I a
 ## ✨ Analytics ✨
 
 <p>
-<a href="https://github.com/christiancmpbell">
+<a href="https://github.com/dustincer">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=smiledev1230&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=christiancmpbell&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dustincer&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>

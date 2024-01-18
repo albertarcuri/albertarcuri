@@ -1,8 +1,16 @@
 ## ✨ About Me ✨
 
-Senior Software Engineer with experience in Ruby on Rails, JavaScript and React and a Bachelor's Degree in Computer Science. As a strong team player and problem-solver, I have a proven record of planning, developing, and maintaining elegant projects from the ground up. Building several tech projects, I demonstrated strong skills in web development.
+A Senior Full Stack Developer with a strong proficiency in Elixir, Ruby, and JavaScript. Adept at architecting and building innovative web applications that prioritize performance, scalability, and user experience. Skilled in both front-end and back-end development, with a track record of delivering high-quality code and leading cross-functional teams.
 
-My specialty also combines a customer service background with technical solutions to approach challenges and solve an array of programming tasks. Now I'm open to embracing new opportunities and responsibilities.
+Technical Skills:
+
+Back-End Development: Elixir, Ruby on Rails, Phoenix Framework.
+Front-End Development: HTML, CSS, JavaScript, React, Vue.js.
+Database: PostgreSQL, MySQL, MongoDB.
+Version Control: Git, GitHub.
+Testing: ExUnit, RSpec, Jest.
+API Development: RESTful APIs, GraphQL.
+DevOps: Docker, Kubernetes, CI/CD.
 
 ## ✨ Skills ✨
 

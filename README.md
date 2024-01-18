@@ -4,13 +4,13 @@ A Senior Full Stack Developer with a strong proficiency in Elixir, Ruby, and Jav
 
 Technical Skills:
 
-<div>Back-End Development: Elixir, Ruby on Rails, Phoenix Framework</div>
-<div>Front-End Development: HTML, CSS, JavaScript, React, Vue.js</div>
-<div>Database: PostgreSQL, MySQL, MongoDB</div>
-<div>Version Control: Git, GitHub</div>
-<div>Testing: ExUnit, RSpec, Jest</div>
-<div>API Development: RESTful APIs, GraphQL</div>
-<div>DevOps: Docker, Kubernetes, CI/CD</div>
+<div>- Back-End Development: Elixir, Ruby on Rails, Phoenix Framework</div>
+<div>- Front-End Development: HTML, CSS, JavaScript, React, Vue.js</div>
+<div>- Database: PostgreSQL, MySQL, MongoDB</div>
+<div>- Version Control: Git, GitHub</div>
+<div>- Testing: ExUnit, RSpec, Jest</div>
+<div>- API Development: RESTful APIs, GraphQL</div>
+<div>- DevOps: Docker, Kubernetes, CI/CD</div>
 
 ## Skills
 

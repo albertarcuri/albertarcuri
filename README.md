@@ -1,18 +1,18 @@
-## ✨ About Me ✨
+## About Me
 
 A Senior Full Stack Developer with a strong proficiency in Elixir, Ruby, and JavaScript. Adept at architecting and building innovative web applications that prioritize performance, scalability, and user experience. Skilled in both front-end and back-end development, with a track record of delivering high-quality code and leading cross-functional teams.
 
 Technical Skills:
 
-Back-End Development: Elixir, Ruby on Rails, Phoenix Framework.
-Front-End Development: HTML, CSS, JavaScript, React, Vue.js.
-Database: PostgreSQL, MySQL, MongoDB.
-Version Control: Git, GitHub.
-Testing: ExUnit, RSpec, Jest.
-API Development: RESTful APIs, GraphQL.
-DevOps: Docker, Kubernetes, CI/CD.
+<div>Back-End Development: Elixir, Ruby on Rails, Phoenix Framework</div>
+<div>Front-End Development: HTML, CSS, JavaScript, React, Vue.js</div>
+<div>Database: PostgreSQL, MySQL, MongoDB</div>
+<div>Version Control: Git, GitHub</div>
+<div>Testing: ExUnit, RSpec, Jest</div>
+<div>API Development: RESTful APIs, GraphQL</div>
+<div>DevOps: Docker, Kubernetes, CI/CD</div>
 
-## ✨ Skills ✨
+## Skills
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
@@ -29,7 +29,7 @@ DevOps: Docker, Kubernetes, CI/CD.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 
-## ✨ Analytics ✨
+## Analytics
 
 <p>
 <a href="https://github.com/dylanlewis988">

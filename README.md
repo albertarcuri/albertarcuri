@@ -7,9 +7,10 @@ Dylan is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixir
 - Database: PostgreSQL, MySQL, MongoDB, Redis
 - Unit Testing: ExUnit, RSpec, Jest
 - API Development: RESTful APIs, GraphQL
-- Version Control: Git, GitHub
+- Cloud Services: AWS, Heroku, Vercel, Firebase
 - DevOps: Docker, Kubernetes, CI/CD
-- Cloud Services: AWS, Heroku, Digital Ocean
+- Version Control: Git, GitHub, Bitbucket
+- Project Management: Jira, Trello, Asana, ClickUp
 
 When Dylan works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly.
 

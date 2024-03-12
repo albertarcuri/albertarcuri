@@ -1,35 +1,23 @@
 ## About Me
 
-A Senior Full Stack Developer with a strong proficiency in Elixir, Ruby, and JavaScript. Adept at architecting and building innovative web applications that prioritize performance, scalability, and user experience. Skilled in both front-end and back-end development, with a track record of delivering high-quality code and leading cross-functional teams.
+Dylan is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixir, and JavaScript. He has 10+ years of experience building innovative web applications that prioritize performance, scalability, and user experience. Below you can see his technical skills in detail:
 
-Technical Skills:
+- Back-End Development: Ruby, Ruby on Rails, Elixir, Phoenix
+- Front-End Development: HTML5, CSS, JavaScript, React, Vue.js
+- Database: PostgreSQL, MySQL, MongoDB, Redis
+- Unit Testing: ExUnit, RSpec, Jest
+- API Development: RESTful APIs, GraphQL
+- Version Control: Git, GitHub
+- DevOps: Docker, Kubernetes, CI/CD
+- Cloud Services: AWS, Heroku, Digital Ocean
 
-<div>- Back-End Development: Elixir, Ruby on Rails, Phoenix Framework</div>
-<div>- Front-End Development: HTML, CSS, JavaScript, React, Vue.js</div>
-<div>- Database: PostgreSQL, MySQL, MongoDB</div>
-<div>- Version Control: Git, GitHub</div>
-<div>- Testing: ExUnit, RSpec, Jest</div>
-<div>- API Development: RESTful APIs, GraphQL</div>
-<div>- DevOps: Docker, Kubernetes, CI/CD</div>
+When Dylan works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly.
 
-## Skills
+Dylan is not just really good at building websites; he's also super dedicated and loves what he does. He's been doing it for a long time and still gets excited about learning new stuff. Even though he already knows a lot about web development, he's always trying to learn more. And he's happy to help others learn too!
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" title="Ruby on Rails" alt="Ruby on Rails" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue.js" alt="Vue.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
-</div>
+In short, Dylan's hard work, passion, and eagerness to learn make him a great person to work with.
 
-## Analytics
+## My Stats
 
 <p>
 <a href="https://github.com/dylanlewis988">

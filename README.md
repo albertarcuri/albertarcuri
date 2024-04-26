@@ -12,11 +12,7 @@ Albert is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixi
 - Version Control: Git, GitHub, Bitbucket
 - Project Management: Jira, Trello, Asana, ClickUp
 
-When Albert works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly.
-
-Albert is not just really good at building websites; he's also super dedicated and loves what he does. He's been doing it for a long time and still gets excited about learning new stuff. Even though he already knows a lot about web development, he's always trying to learn more. And he's happy to help others learn too!
-
-In short, Dylan's hard work, passion, and eagerness to learn make him a great person to work with.
+When Albert works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly. He's not just really good at building websites; he's also super dedicated and loves what he does. He's been doing it for a long time and still gets excited about learning new stuff. Even though he already knows a lot about web development, he's always trying to learn more. And he's happy to help others learn too!
 
 ## My Stats
 

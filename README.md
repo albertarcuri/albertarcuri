@@ -7,7 +7,7 @@ Albert is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixi
 - Database: PostgreSQL, MySQL, MongoDB, Redis
 - Unit Testing: ExUnit, RSpec, Jest
 - API Development: RESTful APIs, GraphQL
-- Cloud Services: AWS, Heroku, Vercel, Firebase
+- Cloud Services: GCP, AWS, Vercel, Firebase
 - DevOps: Docker, Kubernetes, CI/CD
 - Version Control: Git, GitHub, Bitbucket
 - Project Management: Jira, Trello, Asana, ClickUp

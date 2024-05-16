@@ -2,6 +2,10 @@
 
 Albert is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixir, and JavaScript. He has 10+ years of experience building innovative web applications that prioritize performance, scalability, and user experience. Below you can see his technical skills in detail:
 
+When Albert works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly. He's not just really good at building websites; he's also super dedicated and loves what he does. He's been doing it for a long time and still gets excited about learning new stuff. Even though he already knows a lot about web development, he's always trying to learn more. And he's happy to help others learn too!
+
+## Skills
+
 - Back-End Development: Ruby, Ruby on Rails, Elixir, Phoenix
 - Front-End Development: HTML5, CSS, JavaScript, React, Vue.js
 - Database: PostgreSQL, MySQL, MongoDB, Redis
@@ -11,8 +15,6 @@ Albert is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixi
 - DevOps: Docker, Kubernetes, CI/CD
 - Version Control: Git, GitHub, Bitbucket
 - Project Management: Jira, Trello, Asana, ClickUp
-
-When Albert works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly. He's not just really good at building websites; he's also super dedicated and loves what he does. He's been doing it for a long time and still gets excited about learning new stuff. Even though he already knows a lot about web development, he's always trying to learn more. And he's happy to help others learn too!
 
 ## My Stats
 

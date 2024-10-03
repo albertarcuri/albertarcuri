@@ -1,20 +1,18 @@
 ## About Me
 
-Albert is a Senior Full Stack Developer with a strong proficiency in Ruby, Elixir, and JavaScript. He has 10+ years of experience building innovative web applications that prioritize performance, scalability, and user experience. Below you can see his technical skills in detail:
+I’m a full-stack developer with 10+ years of experience in building web applications. I specialize in back-end development with Ruby on Rails and Elixir (Phoenix Framework), as well as JavaScript (React, Vue.js) for front-end development. I also have extensive experience with AWS, using services like EC2, S3, Lambda, and RDS to manage and deploy scalable applications.
 
-When Albert works on a project, he doesn't stop until it's awesome. He pays attention to all the little details and makes sure everything works perfectly. He's not just really good at building websites; he's also super dedicated and loves what he does. He's been doing it for a long time and still gets excited about learning new stuff. Even though he already knows a lot about web development, he's always trying to learn more. And he's happy to help others learn too!
+I’m skilled in developing complete solutions, from designing responsive user interfaces to building reliable back-end systems. I have hands-on experience with Docker for containerization and CI/CD pipelines for automating deployments. I also use tools like Terraform to manage cloud infrastructure.
 
 ## Skills
 
-- Back-End Development: Ruby, Ruby on Rails, Elixir, Phoenix
-- Front-End Development: HTML5, CSS, JavaScript, React, Vue.js
-- Database: PostgreSQL, MySQL, MongoDB, Redis
-- Unit Testing: ExUnit, RSpec, Jest
-- API Development: RESTful APIs, GraphQL
-- Cloud Services: GCP, AWS, Vercel, Firebase
-- DevOps: Docker, Kubernetes, CI/CD
-- Version Control: Git, GitHub, Bitbucket
-- Project Management: Jira, Trello, Asana, ClickUp
+- Frontend: JavaScript (ES6+), React, Vue.js, HTML5, CSS3
+- Backend: Ruby on Rails, Elixir (Phoenix), Node.js
+- Databases: PostgreSQL, MySQL, MongoDB, Redis
+- APIs: REST, GraphQL
+- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD
+- Infrastructure as Code (IaC): Terraform, CloudFormation
+- Testing & Performance: RSpec, Minitest
 
 ## My Stats
 
